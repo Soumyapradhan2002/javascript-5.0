@@ -18,10 +18,5 @@ variabl :-
 - var is used in oldest browser so now a days we are dont use var most of the time.
 3. const :-
 - const is a type of variable where we can't change our data further.
-- const means constant to store some data like number, integer etc..
-
-
-task:-
-1. difference between let & var.
-2. differ
+- const means constant to store some data like number, integer e
 
